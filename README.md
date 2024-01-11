@@ -12,8 +12,10 @@
 ## Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/minutemailer.svg" />][email]
 <br />
 <!-- Optional if you have blogs -->
 <!-- This section you create this variables that are used above -->
 [website]: https://beteabtefera.com
 [linkedin]: https://www.linkedin.com/in/beteabtefera/
+[email]: mailto:beteabtefera@gmail.com
