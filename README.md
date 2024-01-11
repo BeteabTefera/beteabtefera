@@ -3,7 +3,6 @@
 - 🔭 I’m currently working as a Customer Technology Specialist at [BIWORLDWIDE](https://www.biworldwide.com/)
 - 🌱 I’m also attending St. Cloud State University and Studying Computer science and minor in Psychology.
 - 👯 I’m looking to learn from the dev community and expand my knowledge while gaining experience along the way.
-- 🥅 2024 Goal - Do my best to learn and work well at my SWE Internship with [Ameriprise](https://www.ameriprise.com/) in the summer
 - ⚡ Fun fact - I spend most of my free time participating in Pickleball tournaments :)
 - 💬 Ask me about **ANYTHING!!** (_Feel Free to **connect with me**)_
 
@@ -14,7 +13,7 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/minutemailer.svg" />][email]
 <br />
-<!-- Optional if you have blogs -->
+<!--  🥅 2024 Goal Do my best to learn and work well at my SWE Internship with [Ameriprise](https://www.ameriprise.com/) in the summer -->
 <!-- This section you create this variables that are used above -->
 [website]: https://beteabtefera.com
 [linkedin]: https://www.linkedin.com/in/beteabtefera/
