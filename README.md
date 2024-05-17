@@ -60,7 +60,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>  
   </a> 
   <br>
-  <a target='_blank' href="https://beteabtefera.com">
+  <a href="https://beteabtefera.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000.svg?style=for-the-badge" height=25>  
   </a> 
 </p>
