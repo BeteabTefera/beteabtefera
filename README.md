@@ -1,7 +1,7 @@
 ### Hi, I'm Beteab Tefera <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## Software Engineer In Training
-- 😄 Pronouns: he/him/his
+- 😄 Pronouns: he/him/his 
 - 🌱 I’m  attending St. Cloud State University and Studying Computer science and minor in Psychology.
 - 🔭 I’m also currently working fulltime as a Customer Technology Specialist at [BIWORLDWIDE](https://www.biworldwide.com/)
 - 👨🏿‍💻 This Summer I will be Interning at [Ameriprise](https://www.ameriprise.com/) as a Software Engineering Technology Intern
