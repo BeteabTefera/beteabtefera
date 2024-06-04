@@ -2,7 +2,7 @@
 
 ## Software Engineer In Training
 - 😄 Pronouns: he/him/his 
-- 🌱 I’m  attending St. Cloud State University and Studying Computer science and minor in Psychology.
+- 🌱 I’m  attending St. Cloud State University and Studying Computer science and minor in Psychology. Graduating May 2025.
 - 🔭 I’m also currently working fulltime as a Customer Technology Specialist at [BIWORLDWIDE](https://www.biworldwide.com/)
 - 👨🏿‍💻 This Summer I will be Interning at [Ameriprise](https://www.ameriprise.com/) as a Software Engineering Technology Intern
 - 👯 I’m looking to learn from the dev community and expand my knowledge while gaining experience along the way.
