@@ -4,7 +4,7 @@
 - 😄 Pronouns: he/him/his 
 - 🌱 I’m  attending St. Cloud State University and Studying Computer science and minor in Psychology. Graduating May 2025.
 - 🔭 I’m also currently working fulltime as a Customer Technology Specialist at [BIWORLDWIDE](https://www.biworldwide.com/)
-- 👨🏿‍💻 This Summer I will be Interning at [Ameriprise](https://www.ameriprise.com/) as a Software Engineering Technology Intern
+- 👨🏿‍💻 Summer 2024 I Interned at [Ameriprise](https://www.ameriprise.com/) as a Software Engineering Technology Intern
 - 👯 I’m looking to learn from the dev community and expand my knowledge while gaining experience along the way.
 - ⚡ Fun fact - I spend most of my free time participating in Pickleball tournaments :)
 - 💬 Ask me about **ANYTHING!!** (_Feel Free to **connect with me**)_
