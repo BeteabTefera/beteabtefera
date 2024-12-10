@@ -1,13 +1,16 @@
 ### Hi, I'm Beteab Tefera <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beteabtefera&row=2&column=3" alt="beteabtefera" /></a> </p>
+<p align="center"> B.S Computer Science 👨🏿‍💻 </p>
+<p align="center"> Senior @ St. Cloud State University </p>
 
-## Software Engineer In Training
+## Software Engineer
 - 😄 Pronouns: he/him/his 
-- 🌱 I’m  attending St. Cloud State University and Studying Computer science and minor in Psychology. Graduating May 2025.
-- 🔭 I’m also currently working fulltime as a Customer Technology Specialist at [BIWORLDWIDE](https://www.biworldwide.com/)
+- 🔭 I’m currently working full-time as a Customer Technology Specialist at [BIWORLDWIDE](https://www.biworldwide.com/)
 - 👨🏿‍💻 Summer 2024 I Interned at [Ameriprise](https://www.ameriprise.com/) as a Software Engineering Technology Intern
+- I am currently working on two open-source projects: [Oyster](https://github.com/BeteabTefera/oyster/tree) and [CampusConnect](https://github.com/BeteabTefera/CampusConnect)
 - 👯 I’m looking to learn from the dev community and expand my knowledge while gaining experience along the way.
 - ⚡ Fun fact - I spend most of my free time participating in Pickleball tournaments :)
-- 💬 Ask me about **ANYTHING!!** (_Feel Free to **connect with me**)_
+- 💬 Ask me about **ANYTHING!!** (📫 Reach me @ **beteabtefera@gmail.com**)
 
 
 <!--
@@ -44,24 +47,25 @@
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <p align=center>  
-  <img width ="40%" src="https://github-readme-stats.vercel.app/api?username=beteabtefera&show_icons=true&theme=graywhite">
+    <img width ="40%" src="https://github-readme-stats.vercel.app/api?username=beteabtefera&show_icons=true&theme=graywhite">
     <img  width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beteabtefera&layout=compact&theme=" />
+    <img src="https://leetcard.jacoblin.cool/beteabtefera?ext=heatmap" />
   </p>
 </p>
 
-<h2 align="center">Contact ME </h2>
-<p align = "center"> Email me to access my private repositories! </p>
+
+<h2 align="center">Contact ME</h2>
+<p align="center">Email me to access my private repositories!</p>
 <p align="center">
-  
-  <a href="mailto: beteabtefera@gmail.com">
+  <a href="mailto:beteabtefera@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
-  </a> 
-  <a href="https://www.linkedin.com/in/beteabtefera/">
+  </a>
+  <a href="https://www.linkedin.com/in/beteabtefera/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>  
-  </a> 
+  </a>
   <br>
   <a href="https://beteabtefera.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000.svg?style=for-the-badge" height=25>  
-  </a> 
+  </a>
 </p>
 
