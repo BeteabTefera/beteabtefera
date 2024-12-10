@@ -1,5 +1,7 @@
-### Hi, I'm Beteab Tefera <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beteabtefera&row=2&column=3" alt="beteabtefera" /></a> </p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2500&lines=Hi+There!+👋;+I'm+Beteab+Tefera!;" />
+</h1>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beteabtefera&title=-Stars,-Followers&row=2&column=3" alt="beteabtefera" /></a> </p>
 <p align="center"> B.S Computer Science 👨🏿‍💻 </p>
 <p align="center"> Senior @ St. Cloud State University </p>
 
