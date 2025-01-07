@@ -9,9 +9,9 @@
 - 😄 Pronouns: he/him/his 
 - 🔭 I’m currently working full-time as a Customer Technology Specialist at [BIWORLDWIDE](https://www.biworldwide.com/)
 - 👨🏿‍💻 Summer 2024 I Interned at [Ameriprise](https://www.ameriprise.com/) as a Software Engineering Technology Intern
-- 👨🏿‍💻 After graduation in May 2025, I will be working with Ameriprise Financial as a Data Engineering LDP Associate effective June 2025
-- I am currently working on two open-source projects: [Oyster](https://github.com/BeteabTefera/oyster/tree) and [CampusConnect](https://github.com/BeteabTefera/CampusConnect)
-- Working on my personal application as well for Anime Hub [Here](https://github.com/BeteabTefera/AnimeHub)
+- 👨🏿‍💻 May 2025, I will be working with Ameriprise Financial as a Data Engineering LDP Associate effective June 2025
+- I am currently working on these open-source projects: [Oyster](https://github.com/BeteabTefera/oyster/tree)
+- Working on my [Portfolio](https://github.com/BeteabTefera/portfolio_website) as well for Anime Hub [Here](https://github.com/BeteabTefera/AnimeHub)
 - 👯 I’m looking to learn from the dev community and expand my knowledge while gaining experience along the way.
 - ⚡ Fun fact - I spend most of my free time participating in Pickleball tournaments :)
 - 💬 Ask me about **ANYTHING!!** (📫 Reach me @ **beteabtefera@gmail.com**)
