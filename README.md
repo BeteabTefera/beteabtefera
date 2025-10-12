@@ -7,10 +7,11 @@
 
 ## Software Engineer
 - 😄 Pronouns: he/him/his 
-- 🔭 I’m currently working full-time as a Customer Technology Specialist at [BIWORLDWIDE](https://www.biworldwide.com/)
+- 👨🏿‍💻  I’m currently working full-time as a Assicoate Cloud Engineer LDP @ [Ameriprise Financial](https://www.ameriprise.com/)
+- 👨🏿‍💻 Graduated May 2025 from St. Cloud State University , BS. Computer Science
 - 👨🏿‍💻 Summer 2024 I Interned at [Ameriprise](https://www.ameriprise.com/) as a Software Engineering Technology Intern
-- 👨🏿‍💻 May 2025, I will be working with Ameriprise Financial as a Cloud Engineer LDP Associate effective June 2025
-- I am currently working on these open-source projects: [Oyster](https://github.com/BeteabTefera/oyster/tree)
+- 👨🏿‍💻 January 2023 - May 2025 I worked full-time as a Customer Technology Specialist - Fullstack Development @ [BIWorldWide](https://www.biworldwide.com/)
+- **I am currently looking to work on open source projects!!**
 - Working on my [Portfolio](https://github.com/BeteabTefera/portfolio_website) as well for Anime Hub [Here](https://github.com/BeteabTefera/AnimeHub)
 - 👯 I’m looking to learn from the dev community and expand my knowledge while gaining experience along the way.
 - ⚡ Fun fact - I spend most of my free time participating in Pickleball tournaments :)
