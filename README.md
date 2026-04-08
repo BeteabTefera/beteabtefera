@@ -17,9 +17,8 @@
 - ⚡ Fun fact - I spend most of my free time participating in Pickleball tournaments :)
 - 💬 Ask me about **ANYTHING!!** (📫 Reach me @ **beteabtefera@gmail.com**)
 
-
 <!--
-[![Beteab's github stats](https://github-readme-stats.vercel.app/api?username=beteabtefera&count_private=true&include_all_commits=true&theme=radical)](https://github.com/BeteabTefera)
+<img src="https://leetcard.jacoblin.cool/beteabtefera?ext=heatmap" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
     <img src="https://img.shields.io/badge/PL/SQL-ce7e00.svg?style=for-the-badge" alt="Go">
       <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
@@ -51,11 +50,7 @@
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <p align=center>  
-    <img width ="40%" src="https://github-readme-stats.vercel.app/api?username=beteabtefera&show_icons=true&theme=graywhite">
-    <img  width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beteabtefera&layout=compact&theme=" />
-    <img src="https://leetcard.jacoblin.cool/beteabtefera?ext=heatmap" />
-  </p>
+
 </p>
 
 
